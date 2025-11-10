@@ -10,7 +10,7 @@ body {
   font-size: 16px;
   line-height: 1.8;
   color: #333;
-  background: url(/imagenes/fondo.jpg) center/cover no-repeat;
+  background: url(./imagenes/fondo.jpg) center/cover no-repeat;
   min-height: 100vh;
 }
 
@@ -170,4 +170,5 @@ footer p {
 
 .social-icon:hover {
   transform: scale(1.1);
+
 }
